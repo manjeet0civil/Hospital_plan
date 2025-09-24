@@ -15,7 +15,7 @@ function Healing(){
                                 </div>
                                 <div className="two-row g20">
                                     <div className="card relative">
-                                        <img src="assets/Image/department-1.jpg" alt="Docter image" className="pic"/>
+                                        <img src="/assets/Image/department-1.jpg" alt="Docter image" className="pic"/>
                                        <div className="absolute">
                                             <div className="doc-name">Dental</div>
                                             <div className="doc">pellentesque nec, egestas non</div>
@@ -23,7 +23,7 @@ function Healing(){
                                        </div>
                                     </div>
                                     <div className="card relative">
-                                        <img src="assets/Image/department-2.jpg" alt="Docter image" className="pic"/>
+                                        <img src="/assets/Image/department-2.jpg" alt="Docter image" className="pic"/>
                                         <div className="absolute">
                                             <div className="doc-name">Orthopedics</div>
                                             <div className="doc">pellentesque nec, egestas non</div>
@@ -31,7 +31,7 @@ function Healing(){
                                        </div>
                                     </div>
                                     <div className="card relative">
-                                        <img src="assets/Image/department-3.jpg" alt="Docter image" className="pic"/>
+                                        <img src="/assets/Image/department-3.jpg" alt="Docter image" className="pic"/>
                                         <div className="absolute">
                                             <div className="doc-name">Neurosciences</div>
                                             <div className="doc">pellentesque nec, egestas non</div>
@@ -39,7 +39,7 @@ function Healing(){
                                        </div>
                                     </div>
                                     <div className="card relative">
-                                        <img src="assets/Image/department-4.jpg" alt="Docter image" className="pic"/>
+                                        <img src="/assets/Image/department-4.jpg" alt="Docter image" className="pic"/>
                                         <div className="absolute">
                                             <div className="doc-name">Cancer care</div>
                                             <div className="doc">pellentesque nec, egestas non</div>
@@ -49,7 +49,7 @@ function Healing(){
                                 </div> 
                                 <div className="two-row g20">
                                     <div className="card relative">
-                                        <img src="assets/Image/department-5.jpg" alt="Docter image" className="pic"/>
+                                        <img src="/assets/Image/department-5.jpg" alt="Docter image" className="pic"/>
                                        <div className="absolute">
                                             <div className="doc-name">Gastroenterology</div>
                                             <div className="doc">pellentesque nec, egestas non</div>
@@ -57,7 +57,7 @@ function Healing(){
                                        </div>
                                     </div>
                                     <div className="card relative">
-                                        <img src="assets/Image/department-6.jpg" alt="Docter image" className="pic"/>
+                                        <img src="/assets/Image/department-6.jpg" alt="Docter image" className="pic"/>
                                         <div className="absolute">
                                             <div className="doc-name">Medicine</div>
                                             <div className="doc">pellentesque nec, egestas non</div>
@@ -65,7 +65,7 @@ function Healing(){
                                        </div>
                                     </div>
                                     <div className="card relative">
-                                        <img src="assets/Image/department-7.jpg" alt="Docter image" className="pic"/>
+                                        <img src="/assets/Image/department-7.jpg" alt="Docter image" className="pic"/>
                                         <div className="absolute">
                                             <div className="doc-name">Cardiology</div>
                                             <div className="doc">pellentesque nec, egestas non</div>
@@ -73,7 +73,7 @@ function Healing(){
                                        </div>
                                     </div>
                                     <div className="card relative">
-                                        <img src="assets/Image/department-8.jpg" alt="Docter image" className="pic"/>
+                                        <img src="/assets/Image/department-8.jpg" alt="Docter image" className="pic"/>
                                         <div className="absolute">
                                             <div className="doc-name">Surgery</div>
                                             <div className="doc">pellentesque nec, egestas non</div>
@@ -91,22 +91,22 @@ function Healing(){
                                 </div>
                                 <div className="two-row g20">
                                     <div className="card">
-                                        <img src="assets/Image/team-1.jpg" alt="Docter image" className="pic"/>
+                                        <img src="/assets/Image/team-1.jpg" alt="Docter image" className="pic"/>
                                         <div className="doc-name">Glenn Arreondo</div>
                                         <div className="doc-pro">Family Physicians</div>
                                     </div>
                                     <div className="card">
-                                        <img src="assets/Image/team-2.jpg" alt="Docter image" className="pic"/>
+                                        <img src="/assets/Image/team-2.jpg" alt="Docter image" className="pic"/>
                                         <div className="doc-name">Dorthy winters</div>
                                         <div className="doc-pro">Gastroenterologists</div>
                                     </div>
                                     <div className="card">
-                                        <img src="assets/Image/team-3.jpg" alt="Docter image" className="pic"/>
+                                        <img src="/assets/Image/team-3.jpg" alt="Docter image" className="pic"/>
                                         <div className="doc-name">Christopher Perreault</div>
                                         <div className="doc-pro">Medicine Specialists</div>
                                     </div>
                                     <div className="card">
-                                        <img src="assets/Image/team-4.jpg" alt="Docter image" className="pic"/>
+                                        <img src="/assets/Image/team-4.jpg" alt="Docter image" className="pic"/>
                                         <div className="doc-name">Linda Flores</div>
                                         <div className="doc-pro">Gynecologists</div>
                                     </div>
@@ -117,15 +117,15 @@ function Healing(){
                             <div className="two-main">
                                 <div className="one-two">
                                     <div>
-                                        <img src="assets/Image/about-1.jpg" className="about-1 br"/>
+                                        <img src="/assets/Image/about-1.jpg" className="about-1 br"/>
                                     </div>
                                     <div className="about-2">
                                         <div className="photo">Connect With &nbsp <span className="two-blue"> Digital Hospital </span> &nbsp service</div>
-                                        <img src="assets/Image/about-2.jpg" className="about-2 br"/>
+                                        <img src="/assets/Image/about-2.jpg" className="about-2 br"/>
                                     </div>
                                 </div>
                                 <div className="one-three"> 
-                                    <img src="assets/Image/about-3.jpg" className="about-3 br"/> 
+                                    <img src="/assets/Image/about-3.jpg" className="about-3 br"/> 
                                 </div>
                             </div>
                             <div className="two-two">
@@ -137,7 +137,7 @@ function Healing(){
                                         <div className="two-col g50">
                                             <div>
                                                 <div className="two-svg">
-                                                    <img src="assets/Svg/clinical.svg"/>
+                                                    <img src="/assets/Svg/clinical.svg"/>
                                                 </div>
                                                 <div className="two-hands">
                                                     1k+ Healing hands
@@ -148,7 +148,7 @@ function Healing(){
                                             </div>
                                             <div>
                                                 <div className="two-svg">
-                                                    <img src="assets/Svg/clinical.svg"/>
+                                                    <img src="/assets/Svg/clinical.svg"/>
                                                 </div>
                                                 <div className="two-hands">
                                                     Experience Doctors
@@ -161,7 +161,7 @@ function Healing(){
                                         <div className="two-col g50">
                                             <div>
                                                 <div className="two-svg">
-                                                    <img src="assets/Svg/hospital.svg"/>
+                                                    <img src="/assets/Svg/hospital.svg"/>
                                                 </div>
                                                 <div className="two-hands">
                                                     Advanced Healthcare
@@ -172,7 +172,7 @@ function Healing(){
                                             </div>
                                             <div>
                                                 <div className="two-svg">
-                                                    <img src="assets/Svg/healing.svg"/>
+                                                    <img src="/assets/Svg/healing.svg"/>
                                                 </div>
                                                 <div className="two-hands">
                                                     50+ Pharmacies
@@ -194,7 +194,7 @@ function Healing(){
                                     <div className="two-row evenly gap1" >
                                         <div className="sad flex1 mar30 pad20 font21 br2 bfilter">
                                             <div>
-                                                <img src="assets/Svg/heart.svg"/>
+                                                <img src="/assets/Svg/heart.svg"/>
                                             </div>
                                             <div>
                                                 Total Appointment
@@ -205,7 +205,7 @@ function Healing(){
                                         </div>
                                         <div className="sad flex1 mar30 pad20 font21 br2 bfilter">
                                             <div>
-                                                <img src="assets/Svg/ambulance.svg"/>
+                                                <img src="/assets/Svg/ambulance.svg"/>
                                             </div>
                                             <div>
                                                 Total Ambulance
@@ -216,7 +216,7 @@ function Healing(){
                                         </div>
                                         <div className="sad flex1  mar30 pad20 font21 br2 bfilter">
                                             <div>
-                                                <img src="assets/Svg/prescriptions.svg"/>
+                                                <img src="/assets/Svg/prescriptions.svg"/>
                                             </div>
                                             <div>
                                                 Total Operations
@@ -229,7 +229,7 @@ function Healing(){
                                     <div className="two-row evenly gap1">
                                         <div className="sad flex1 mar30 pad20 font21 br2 bfilter" >
                                             <div>
-                                                <img src="assets/Svg/bloodtype.svg"/>
+                                                <img src="/assets/Svg/bloodtype.svg"/>
                                             </div>
                                             <div>
                                                 Covid patients
@@ -240,7 +240,7 @@ function Healing(){
                                         </div>
                                         <div className="sad flex1 mar30 pad20 font21 br2 bfilter">
                                             <div>
-                                                <img src="assets/Svg/stethoscope.svg"/>
+                                                <img src="/assets/Svg/stethoscope.svg"/>
                                             </div>
                                             <div>
                                                 Total Doctors
@@ -251,7 +251,7 @@ function Healing(){
                                         </div>
                                         <div className="sad flex1  mar30 pad20 font21 br2 bfilter">
                                             <div>
-                                                <img src="assets/Svg/clinical.svg"/>
+                                                <img src="/assets/Svg/clinical.svg"/>
                                             </div>
                                             <div>
                                                 Total Nurses

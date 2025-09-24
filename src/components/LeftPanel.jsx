@@ -7,37 +7,37 @@ function LeftPanel(props){
     const data = [{
         id: 1,
         title: "Home",
-        image: "assets/Svg/home.svg",
+        image: "/assets/Svg/home.svg",
         path: ""
     }, {
         id: 2,
         title: "Appointment",
-        image: "assets/Svg/clinical.svg",
+        image: "/assets/Svg/clinical.svg",
         path:'/Appointment'
     },{
         id: 3,
         title: "Healing",
-        image: "assets/Svg/healing.svg",
+        image: "/assets/Svg/healing.svg",
         path:'/Healing'
     },{
         id: 4,
         title: "Patients",
-        image: "assets/Svg/patients.svg",
+        image: "/assets/Svg/patients.svg",
         path:'/Patients'
     },{
         id: 5,
         title: "Hospital",
-        image: "assets/Svg/hospital.svg",
+        image: "/assets/Svg/hospital.svg",
         path:'/Hospital'
     },{
         id: 6,
         title: "Doctors",
-        image: "assets/Svg/stethoscope.svg",
+        image: "/assets/Svg/stethoscope.svg",
         path:'/Doctors'
     },{
         id: 7,
         title: "Vaccine",
-        image: "assets/Svg/vaccines.svg",
+        image: "/assets/Svg/vaccines.svg",
         path:'/Vaccine'
     }];
 
@@ -46,7 +46,7 @@ function LeftPanel(props){
         <>
             <>
                 <div className="l-top">
-                    <img src="assets/Image/Hospital-logo.png" className="l-top1" />
+                    <img src="/assets/Image/Hospital-logo.png" className="l-top1" />
                 </div>
                 <div className="l-bottom">
                     {
@@ -56,19 +56,19 @@ function LeftPanel(props){
 
                         data.map(value => <Menu title={value.title} img={value.image} key={value.id} setTitle={props.setTitle} path={value.path}/> )
                     }
-                    {/* <Menu title="Dashboard" img="assets/Svg/home.svg" />
-                    <Menu title="Appointment" img="assets/Svg/clinical.svg" />
-                    <Menu title="Healing" img="assets/Svg/healing.svg" />
-                    <Menu title="Patients" img="assets/Svg/patients.svg" />
-                    <Menu title="Hospital" img="assets/Svg/hospital.svg" />
-                    <Menu title="Doctors" img="assets/Svg/stethoscope.svg" />
-                    <Menu title="Vaccine" img="assets/Svg/vaccines.svg" /> */}
+                    {/* <Menu title="Dashboard" img="/assets/Svg/home.svg" />
+                    <Menu title="Appointment" img="/assets/Svg/clinical.svg" />
+                    <Menu title="Healing" img="/assets/Svg/healing.svg" />
+                    <Menu title="Patients" img="/assets/Svg/patients.svg" />
+                    <Menu title="Hospital" img="/assets/Svg/hospital.svg" />
+                    <Menu title="Doctors" img="/assets/Svg/stethoscope.svg" />
+                    <Menu title="Vaccine" img="/assets/Svg/vaccines.svg" /> */}
               </div>
 
 
                 <label htmlFor="box">
                     <div className="bottom" title="Navbar"> 
-                        <img src="assets/Svg/arrow.svg" className="bottom1"/>
+                        <img src="/assets/Svg/arrow.svg" className="bottom1"/>
                     </div>
                 </label>
             </>
